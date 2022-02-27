@@ -1,0 +1,108 @@
+body {
+background-color: #AEB8B7;
+margin: 5% ;
+font-family: "fantasy;";
+width: 90%;
+ }
+ img {
+ 	width: 50%;
+ }
+ h2 {
+ 	font-family: "play";
+ }
+
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #118892 ;
+  }
+
+li {
+ 	float:left;
+
+ }
+
+ li a {
+ 	display: block;
+ 	color: black;
+ 	text-align: center;
+ 	padding: 18px 20px;
+ 	text-decoration: none ;
+ }
+
+ li a: hover {
+    background-color: #1111 ;
+   
+ }
+ .titulos{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0px;
+    color: #048590 ;
+}
+.parrafos{
+    font-size: 20px;
+    padding: 10px;
+    text-align: justify;
+font-family:verdana ;
+
+}
+ 
+ .tituloss{
+    font-size: 40px;
+    text-align: left;
+    padding: 10px 0px;
+}
+
+.titulosss{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0px;
+    color: #F1C40F  ;
+}
+.marca{
+   background-color: #4FAFBB;
+}
+.marcaa{
+   background-color: #34A8B6;
+}
+
+
+.titulossss{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0px;
+    color: #BB5C4F ;
+}
+
+.titulosR{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0px;
+    color: #C65EC6 ;
+}
+
+.titulosV{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0px;
+    color: #328E25;
+}
+
+.titulosA{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px 0px;
+    color: black;
+}
+
+iframe ,.pdf{
+    width: 90%;
+    height:80vh ;
+}
+iframe ,.pdf{
+    width: 90%;
+    height:80vh ;
+}
